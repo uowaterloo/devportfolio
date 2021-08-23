@@ -31,6 +31,6 @@ jobs:
     - run: npm install gh-pages --save-dev
     - run: git config user.email "raghavsethi12@gmail.om"
     - run: git config user.name "Raghav Sethi"
-    - run: git config remote.origin.url 'https://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@github.com/uowaterloo/devportfolio}.git'
+    - run: git config remote.origin.url 'https://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@github.com/uowaterloo/devportfolio.git'
     - run: yarn deploy
 
