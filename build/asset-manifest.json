@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/uowaterloo/devportfolio/static/css/main.29eee96f.chunk.css",
+    "main.js": "/uowaterloo/devportfolio/static/js/main.0ce5d191.chunk.js",
+    "main.js.map": "/uowaterloo/devportfolio/static/js/main.0ce5d191.chunk.js.map",
+    "runtime-main.js": "/uowaterloo/devportfolio/static/js/runtime-main.0880462b.js",
+    "runtime-main.js.map": "/uowaterloo/devportfolio/static/js/runtime-main.0880462b.js.map",
+    "static/js/2.e93a56cc.chunk.js": "/uowaterloo/devportfolio/static/js/2.e93a56cc.chunk.js",
+    "static/js/2.e93a56cc.chunk.js.map": "/uowaterloo/devportfolio/static/js/2.e93a56cc.chunk.js.map",
+    "index.html": "/uowaterloo/devportfolio/index.html",
+    "static/css/main.29eee96f.chunk.css.map": "/uowaterloo/devportfolio/static/css/main.29eee96f.chunk.css.map",
+    "static/js/2.e93a56cc.chunk.js.LICENSE.txt": "/uowaterloo/devportfolio/static/js/2.e93a56cc.chunk.js.LICENSE.txt",
+    "static/media/Navigation.css": "/uowaterloo/devportfolio/static/media/Agustina.320d237b.otf",
+    "static/media/airbnbLogo.e8497507.png": "/uowaterloo/devportfolio/static/media/airbnbLogo.e8497507.png",
+    "static/media/font-awesome.min.css": "/uowaterloo/devportfolio/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/github.6c955556.svg": "/uowaterloo/devportfolio/static/media/github.6c955556.svg",
+    "static/media/google.eae9aa93.svg": "/uowaterloo/devportfolio/static/media/google.eae9aa93.svg",
+    "static/media/nucleo.css": "/uowaterloo/devportfolio/static/media/nucleo-icons.d6a66724.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0880462b.js",
+    "static/js/2.e93a56cc.chunk.js",
+    "static/css/main.29eee96f.chunk.css",
+    "static/js/main.0ce5d191.chunk.js"
+  ]
+}

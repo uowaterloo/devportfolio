@@ -20,7 +20,7 @@ ReactDOM.render(
 		<Navigation />
 		<Greetings />
 		<Skills />
-		<Proficiency />
+		{/* <Proficiency /> */}
 		<Education />
 		<Experience />
 		<Feedbacks />

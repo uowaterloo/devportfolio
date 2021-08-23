@@ -5,15 +5,15 @@ import github from "./assets/img/icons/common/github.svg";
 import airbnb from "./assets/img/icons/common/airbnbLogo.png";
 
 export const greetings = {
-	name: "Hanzla Tauqeer",
-	title: "Hi all, I'm Hanzla",
+	name: "Raghav Sethi",
+	title: "Hi all, I'm Raghav",
 	description:
 		"A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
 	resumeLink: "https://cv.hanzla.ga",
 };
 
 export const openSource = {
-	githubUserName: "1hanzla100",
+	githubUserName: "uowaterloo",
 };
 
 export const contact = {};
@@ -141,6 +141,26 @@ export const educationInfo = [
 		],
 	},
 	{
+		schoolName: "Harvard University",
+		subHeader: "Master of Science in Computer Science",
+		duration: "September 2017 - April 2019",
+		desc: "Participated in the research of XXX and published 3 papers.",
+		descBullets: [
+			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		],
+	},
+	{
+		schoolName: "Harvard University",
+		subHeader: "Master of Science in Computer Science",
+		duration: "September 2017 - April 2019",
+		desc: "Participated in the research of XXX and published 3 papers.",
+		descBullets: [
+			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		],
+	},
+	{
 		schoolName: "Harvard",
 		subHeader: "Master of Science in Computer Science",
 		duration: "September 2017 - April 2019",
@@ -162,6 +182,39 @@ export const educationInfo = [
 ];
 
 export const experience = [
+	{
+		role: "Software Engineer",
+		company: "Google",
+		companylogo: googlelogo,
+		date: "June 2018 – Present",
+		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		descBullets: [
+			"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		],
+	},
+	{
+		role: "Software Engineer",
+		company: "Google",
+		companylogo: googlelogo,
+		date: "June 2018 – Present",
+		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		descBullets: [
+			"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		],
+	},
+	{
+		role: "Software Engineer",
+		company: "Google",
+		companylogo: googlelogo,
+		date: "June 2018 – Present",
+		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		descBullets: [
+			"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		],
+	},
 	{
 		role: "Software Engineer",
 		company: "Google",
